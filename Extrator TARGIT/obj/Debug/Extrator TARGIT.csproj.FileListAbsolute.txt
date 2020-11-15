@@ -1,0 +1,54 @@
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.exe.config
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.exe
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.pdb
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csprojAssemblyReference.cache
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator_TARGIT.ProjectInstaller.resources
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csproj.GenerateResource.cache
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csproj.CoreCompileInputs.cache
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.exe
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.pdb
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.exe.config
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.exe
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.pdb
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csprojAssemblyReference.cache
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator_TARGIT.ProjectInstaller.resources
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csproj.GenerateResource.cache
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csproj.CoreCompileInputs.cache
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.exe
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.pdb
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.exe.config
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.exe
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.pdb
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator_TARGIT.ProjectInstaller.resources
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csproj.GenerateResource.cache
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csproj.CoreCompileInputs.cache
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.exe
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.pdb
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\x86\sqlite3.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\x64\sqlite3.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\EntityFramework.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\System.Data.SQLite.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\EntityFramework.xml
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\System.Data.SQLite.xml
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csproj.CopyComplete
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\mongocrypt.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\snappy32.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\snappy64.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\libzstd.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\DnsClient.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\MongoDB.Bson.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\MongoDB.Driver.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\SharpCompress.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\System.Buffers.dll
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\DnsClient.xml
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\MongoDB.Bson.xml
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\MongoDB.Driver.xml
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\System.Buffers.xml
+C:\Users\ADMINISTRATOR\Desktop\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csprojAssemblyReference.cache
