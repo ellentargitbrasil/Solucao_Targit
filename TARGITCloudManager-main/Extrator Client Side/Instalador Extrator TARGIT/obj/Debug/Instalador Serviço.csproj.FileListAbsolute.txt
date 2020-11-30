@@ -1,0 +1,20 @@
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Instalador Extrator TARGIT\bin\Debug\Instalador Extrator TARGIT.exe.config
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Instalador Extrator TARGIT\bin\Debug\Instalador Extrator TARGIT.exe
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Instalador Extrator TARGIT\bin\Debug\Instalador Extrator TARGIT.pdb
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Instalador Extrator TARGIT\obj\Debug\Instalador Serviço.csprojAssemblyReference.cache
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Instalador Extrator TARGIT\obj\Debug\Instalador_Extrator_TARGIT.FormInicial.resources
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Instalador Extrator TARGIT\obj\Debug\Instalador_Extrator_TARGIT.Properties.Resources.resources
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Instalador Extrator TARGIT\obj\Debug\Instalador Serviço.csproj.GenerateResource.cache
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Instalador Extrator TARGIT\obj\Debug\Instalador Serviço.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Instalador Extrator TARGIT\obj\Debug\Instalador Extrator TARGIT.exe
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Instalador Extrator TARGIT\obj\Debug\Instalador Extrator TARGIT.pdb
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Instalador Extrator TARGIT\bin\Debug\Instalador Extrator TARGIT.exe.config
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Instalador Extrator TARGIT\bin\Debug\Instalador Extrator TARGIT.exe
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Instalador Extrator TARGIT\bin\Debug\Instalador Extrator TARGIT.pdb
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Instalador Extrator TARGIT\obj\Debug\Instalador Serviço.csprojAssemblyReference.cache
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Instalador Extrator TARGIT\obj\Debug\Instalador_Extrator_TARGIT.FormInicial.resources
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Instalador Extrator TARGIT\obj\Debug\Instalador_Extrator_TARGIT.Properties.Resources.resources
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Instalador Extrator TARGIT\obj\Debug\Instalador Serviço.csproj.GenerateResource.cache
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Instalador Extrator TARGIT\obj\Debug\Instalador Serviço.csproj.CoreCompileInputs.cache
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Instalador Extrator TARGIT\obj\Debug\Instalador Extrator TARGIT.exe
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Instalador Extrator TARGIT\obj\Debug\Instalador Extrator TARGIT.pdb

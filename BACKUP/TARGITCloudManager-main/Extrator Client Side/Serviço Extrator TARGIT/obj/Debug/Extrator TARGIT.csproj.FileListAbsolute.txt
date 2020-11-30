@@ -1,0 +1,36 @@
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.exe.config
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.exe
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.pdb
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csprojAssemblyReference.cache
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator_TARGIT.ProjectInstaller.resources
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csproj.GenerateResource.cache
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csproj.CoreCompileInputs.cache
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.exe
+C:\Users\ADMINISTRATOR\Documents\Projeto Nuvem TARGIT\Extrator\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.pdb
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.exe.config
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.exe
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.pdb
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csprojAssemblyReference.cache
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator_TARGIT.ProjectInstaller.resources
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csproj.GenerateResource.cache
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csproj.CoreCompileInputs.cache
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.exe
+C:\Users\ADMINISTRATOR\Desktop\Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.pdb
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.exe.config
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.exe
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.pdb
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csprojAssemblyReference.cache
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator_TARGIT.ProjectInstaller.resources
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csproj.GenerateResource.cache
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.exe
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.pdb
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.exe.config
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.exe
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\bin\Debug\Extrator TARGIT.pdb
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csprojAssemblyReference.cache
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator_TARGIT.ProjectInstaller.resources
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csproj.GenerateResource.cache
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.exe
+C:\Users\rodri\Documents\PALatinoamericana\Produtos\Desenvolvimento\TARGIT Cloud\Extrator\Solucao Extrator TARGIT\Extrator TARGIT\obj\Debug\Extrator TARGIT.pdb

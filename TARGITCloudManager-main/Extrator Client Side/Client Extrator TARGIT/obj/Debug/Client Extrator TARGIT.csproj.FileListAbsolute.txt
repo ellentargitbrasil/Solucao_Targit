@@ -1,0 +1,53 @@
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\ClientExtratorTARGIT.exe.config
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\ClientExtratorTARGIT.exe
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\ClientExtratorTARGIT.pdb
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\Client Extrator TARGIT.csprojAssemblyReference.cache
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\PlayerUI.FormPrincipal.resources
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\PlayerUI.Form2.resources
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\PlayerUI.Form3.resources
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\ClientExtratorTARGIT.Properties.Resources.resources
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\Client Extrator TARGIT.csproj.GenerateResource.cache
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\Client Extrator TARGIT.csproj.CoreCompileInputs.cache
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\ClientExtratorTARGIT.exe
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\ClientExtratorTARGIT.pdb
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\mongocrypt.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\snappy32.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\snappy64.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\libzstd.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\ClientExtratorTARGIT.exe.config
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\ClientExtratorTARGIT.exe
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\ClientExtratorTARGIT.pdb
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\DnsClient.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\MongoDB.Bson.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\MongoDB.Driver.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\SharpCompress.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\System.Buffers.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\DnsClient.xml
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\MongoDB.Bson.xml
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\MongoDB.Driver.xml
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\System.Buffers.xml
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\PlayerUI.FormPrincipal.resources
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\PlayerUI.Form2.resources
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\PlayerUI.Form3.resources
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\ClientExtratorTARGIT.Properties.Resources.resources
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\Client Extrator TARGIT.csproj.GenerateResource.cache
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\Client Extrator TARGIT.csproj.CoreCompileInputs.cache
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\Client Extrator TARGIT.csproj.CopyComplete
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\ClientExtratorTARGIT.exe
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\ClientExtratorTARGIT.pdb
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\Client Extrator TARGIT.csprojAssemblyReference.cache
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\System.Memory.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\System.Memory.xml
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\System.Data.SQLite.dll
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\System.Data.SQLite.xml
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\ClientExtratorTARGIT.FormDadosExtrator.resources

@@ -1,0 +1,109 @@
+/*   
+@import url('widgets.css');
+
+body {
+    font-family: Arial;
+    background-color: #222526;
+}
+
+input, select, textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+  }
+
+  
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+    color: white;
+  }
+  
+  
+input[type=submit] {
+    background-color: #1532d6;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+    margin-top: 20px;
+    font-size: 17px;
+    font-weight: bold;
+  }
+  
+#forms {
+      max-width: 700px;
+      margin: auto;
+      text-align: center;
+  }
+  
+/* .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  } */
+
+#title {
+    color: white;
+}
+  
+  
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+    text-align: left;
+  }
+  
+  
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+  }
+  
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  
+.topnav a.active {
+    background-color: #1532d6;
+    color: white;
+  }  
+
+@media screen and (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+    }
+  } 

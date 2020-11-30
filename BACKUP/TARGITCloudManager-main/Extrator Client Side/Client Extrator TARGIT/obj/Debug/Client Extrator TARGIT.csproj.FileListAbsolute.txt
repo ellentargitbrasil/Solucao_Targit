@@ -1,0 +1,12 @@
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\ClientExtratorTARGIT.exe.config
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\ClientExtratorTARGIT.exe
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\bin\Debug\ClientExtratorTARGIT.pdb
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\Client Extrator TARGIT.csprojAssemblyReference.cache
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\PlayerUI.FormPrincipal.resources
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\PlayerUI.Form2.resources
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\PlayerUI.Form3.resources
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\ClientExtratorTARGIT.Properties.Resources.resources
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\Client Extrator TARGIT.csproj.GenerateResource.cache
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\Client Extrator TARGIT.csproj.CoreCompileInputs.cache
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\ClientExtratorTARGIT.exe
+C:\Users\ADMINISTRATOR\Desktop\PrincipalC#\BACKUP\TARGITCloudManager-main\Extrator Client Side\Client Extrator TARGIT\obj\Debug\ClientExtratorTARGIT.pdb
